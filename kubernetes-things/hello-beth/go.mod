@@ -1,1 +1,1 @@
-module github.com/cloudnativedevops/demo/hello
+module github.com/BethGuittens/project-puppet/tree/production/kubernetes-things/hello-beth
